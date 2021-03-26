@@ -62,6 +62,7 @@ public class lista {
             }
 
 
+
             nomes.clear();
 
             listavazia = nomes.isEmpty();
