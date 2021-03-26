@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'br.com.digitalInnovation'
-version '1.0-SNAPSHOT'
+version 'unspecified'
 
 repositories {
     mavenCentral()
