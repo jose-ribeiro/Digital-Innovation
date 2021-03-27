@@ -1,4 +1,10 @@
+set/ExemploLinkedHasSet.java
+ set.ExemploLinkedHasSet
 list/lista.java
  list.lista
+set/ExemploTreeSet.java
+ set.ExemploTreeSet
 queue/ExemploLinkedList.java
  queue.ExemploLinkedList
+set/ExemploHashSet.java
+ set.ExemploHashSet
