@@ -26,3 +26,5 @@ optionals/ExemploOptinalPrimitivos.java
  optionals.ExemploOptinalPrimitivos
 optionals/ExemploOptional.java
  optionals.ExemploOptional
+stream/ExemploStreamAPI.java
+ stream.ExemploStreamAPI
