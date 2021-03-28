@@ -20,3 +20,9 @@ Comparators/Estudante.java
  Comparators.Estudante
 set/ExemploHashSet.java
  set.ExemploHashSet
+optionals/ExemploOptionalEstados.java
+ optionals.ExemploOptionalEstados
+optionals/ExemploOptinalPrimitivos.java
+ optionals.ExemploOptinalPrimitivos
+optionals/ExemploOptional.java
+ optionals.ExemploOptional
