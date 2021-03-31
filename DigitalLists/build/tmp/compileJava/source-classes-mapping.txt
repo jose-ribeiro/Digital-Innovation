@@ -26,5 +26,7 @@ optionals/ExemploOptinalPrimitivos.java
  optionals.ExemploOptinalPrimitivos
 optionals/ExemploOptional.java
  optionals.ExemploOptional
+javaAvancado/aula01.java
+ javaAvancado.aula01
 stream/ExemploStreamAPI.java
  stream.ExemploStreamAPI
